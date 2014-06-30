@@ -24,7 +24,7 @@
 -include device/samsung/klte-common/BoardConfigCommon.mk
 
 # inherit from the proprietary version
--include vendor/samsung/kltetmo/BoardConfigVendor.mk
+-include vendor/samsung/klteusc/BoardConfigVendor.mk
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := klteusc
